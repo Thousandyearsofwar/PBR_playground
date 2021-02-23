@@ -1,0 +1,24 @@
+﻿  glad.c
+  PbrtPlayground.cpp
+e:\computational geometry\生产实习报告\pbrtplayground\pbrtplayground\pbrtplayground.cpp(107): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\computational geometry\生产实习报告\pbrtplayground\pbrtplayground\pbrtplayground.cpp(159): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\computational geometry\生产实习报告\pbrtplayground\pbrtplayground\pbrtplayground.cpp(160): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  ResourceManager.cpp
+  Scene.cpp
+e:\computational geometry\生产实习报告\pbrtplayground\pbrtplayground\scene.cpp(109): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\computational geometry\生产实习报告\pbrtplayground\pbrtplayground\scene.cpp(112): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\computational geometry\生产实习报告\pbrtplayground\pbrtplayground\scene.cpp(410): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\computational geometry\生产实习报告\pbrtplayground\pbrtplayground\scene.cpp(411): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\computational geometry\生产实习报告\pbrtplayground\pbrtplayground\scene.cpp(412): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\computational geometry\生产实习报告\pbrtplayground\pbrtplayground\scene.cpp(436): warning C4552: ”!=“: 未使用表达式结果
+e:\computational geometry\生产实习报告\pbrtplayground\pbrtplayground\scene.cpp(465): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+e:\computational geometry\生产实习报告\pbrtplayground\pbrtplayground\scene.cpp(467): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+e:\computational geometry\生产实习报告\pbrtplayground\pbrtplayground\scene.cpp(469): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+e:\computational geometry\生产实习报告\pbrtplayground\pbrtplayground\scene.cpp(1102): warning C4244: “初始化”: 从“double”转换到“unsigned int”，可能丢失数据
+e:\computational geometry\生产实习报告\pbrtplayground\pbrtplayground\scene.cpp(1103): warning C4244: “初始化”: 从“double”转换到“unsigned int”，可能丢失数据
+  Shader.cpp
+  stb_image.cpp
+  Texture2D.cpp
+  TextureCube.cpp
+  正在生成代码...
+  PbrtPlayground.vcxproj -> E:\Computational Geometry\生产实习报告\PbrtPlayground\Debug\PbrtPlayground.exe
